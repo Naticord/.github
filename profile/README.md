@@ -27,4 +27,5 @@ Highest on the list is highest priority.
 
 - Voice calling
 - Statuses
+- Copying and pasting images from the clipboard
 - Other various channels such as fourms and such
