@@ -22,12 +22,12 @@ Naticord aims to bring you the best performance while still trying to integrate 
 - Image viewing
 - Embeds
 - Plugins (experimental)
+- Searching for either friends or servers
 ### What we are planning to add
 Highest on the list is highest priority.
 
 - Voice calling
 - Statuses
 - Copying and pasting images from the clipboard
-- Search bar for both friends and servers
 - Hide hidden channels in servers
 - Other various channels such as fourms and such
