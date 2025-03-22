@@ -1,13 +1,10 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f688e553-ca56-4c1b-af2d-385766540ad6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/72f612cb-6b3e-4d9e-b9df-a5480d624ba2" />
-    <img src="https://github.com/user-attachments/assets/72f612cb-6b3e-4d9e-b9df-a5480d624ba2" alt="Naticord Logo" />
-  </picture>
-</p>
+<h1>
+  <img src="https://github.com/user-attachments/assets/b88cfb0f-5459-4256-aeba-82782c79c2db" alt="Frame 115">
+  Naticord
+</h1>
 
-<p align="center">Naticord is a native Discord client made using C# with Windows Forms.</p>
+Hey, and welcome to Naticord's GitHub page! You may be looking for one of these:
 
-<p align="center">
- <a href="https://naticord.lol">Website</a> · <a href="https://example.com">Discord Server</a>
-</p>
+- **[naticord](https://github.com/Naticord/naticord):** Naticord's client
+- **[naticord-website](https://github.com/Naticord/naticord-website):** Naticord's website
+- **[naticord-setup](https://github.com/Naticord/naticord-setup):** Naticord's setup script (Inno)
